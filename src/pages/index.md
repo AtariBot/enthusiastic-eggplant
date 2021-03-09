@@ -79,7 +79,7 @@ sections:
     recent_count: 0
     type: blog_feed_section
   - type: cta_section
-    title: This Is A CTA
+    title: Looking for something else?
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
