@@ -70,6 +70,10 @@ sections:
     title: Ecommerce
     show_recent: true
     recent_count: 3
+  - title: lorem-ipsum
+    show_recent: false
+    recent_count: 0
+    type: blog_feed_section
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
