@@ -20,7 +20,8 @@ sections:
     has_background: true
     background:
       background_color: blue
-      background_image: images/diagonal-lines.svg
+      background_image: >-
+        images/kisspng-application-programming-interface-representational-api-icon-5b4e07a29545d5.3303610515318404186114.jpg
       background_image_opacity: 50
       background_image_size: cover
       background_image_repeat: no-repeat
