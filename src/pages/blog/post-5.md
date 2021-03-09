@@ -1,5 +1,5 @@
 ---
-title: Api 1
+title: API 1
 date: '2020-06-02'
 author: src/data/team/gordon-norman.yaml
 categories:
