@@ -70,7 +70,7 @@ sections:
     title: Ecommerce
     show_recent: true
     recent_count: 3
-  - title: lorem-ipsum
+  - title: Logistics
     show_recent: false
     recent_count: 0
     type: blog_feed_section
