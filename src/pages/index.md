@@ -14,7 +14,8 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/1_lAR9Uh_gJ7dp23e0vhy5Hg.png
+    image: >-
+      images/kisspng-application-programming-interface-representational-api-icon-5b4e07a29545d5.3303610515318404186114.jpg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
