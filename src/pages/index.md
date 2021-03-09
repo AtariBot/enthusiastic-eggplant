@@ -19,7 +19,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: blue
+      background_color: gray
       background_image: images/5.png
       background_image_opacity: 50
       background_image_size: auto
