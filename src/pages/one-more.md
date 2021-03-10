@@ -2,7 +2,7 @@
 title: Another
 sections:
   - type: hero_section
-    title: Welcome to our Dev Portal
+    title: That's another page ok?
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
