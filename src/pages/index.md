@@ -8,7 +8,7 @@ sections:
       quis lorem malesuada luctus.
     actions:
       - label: Learn More
-        url: /one-more
+        url: /another
         style: primary
       - label: Contact Us
         url: /contact
