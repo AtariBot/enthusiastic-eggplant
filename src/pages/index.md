@@ -1,5 +1,5 @@
 ---
-title: HomeNew
+title: NewPage
 sections:
   - type: hero_section
     title: Welcome to our Dev Portal
