@@ -1,23 +1,6 @@
 ---
 title: NewPage
 sections:
-  - type: hero_section
-    title: New page lad
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    actions: []
-    align: left
-    image: images/hero.svg
-    image_alt: Hero placeholder image
-    image_position: right
-    has_background: true
-    background:
-      background_color: blue
-      background_image: images/diagonal-lines.svg
-      background_image_opacity: 50
-      background_image_size: cover
-      background_image_repeat: no-repeat
   - type: cta_section
     title: Looking for something else?
     subtitle: See our online help
