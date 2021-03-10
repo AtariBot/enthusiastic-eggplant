@@ -66,7 +66,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-  title: Ecommerce
+  - title: Ecommerce
     show_recent: true
     recent_count: 3
   - title: Logistics
