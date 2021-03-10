@@ -24,10 +24,6 @@ sections:
       background_image_opacity: 50
       background_image_size: cover
       background_image_repeat: no-repeat
-  - title: Logistics
-    show_recent: false
-    recent_count: 0
-    type: blog_feed_section
   - title: Supply Chain
     show_recent: false
     recent_count: 0
