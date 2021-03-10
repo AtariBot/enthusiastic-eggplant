@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 
 sections:
   - type: hero_section
     title: Welcome to our Dev Portal
