@@ -24,10 +24,6 @@ sections:
       background_image_opacity: 50
       background_image_size: cover
       background_image_repeat: no-repeat
-  - type: blog_feed_section
-    title: Ecommerce
-    show_recent: true
-    recent_count: 3
   - title: Logistics
     show_recent: false
     recent_count: 0
