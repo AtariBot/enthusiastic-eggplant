@@ -1,5 +1,5 @@
 ---
-title: Another
+title: Home
 sections:
   - type: hero_section
     title: That's another page ok?
