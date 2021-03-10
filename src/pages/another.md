@@ -1,5 +1,5 @@
 ---
-title: Home
+title: NewPage
 sections:
   - type: hero_section
     title: New page lad
