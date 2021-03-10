@@ -8,7 +8,7 @@ categories:
 tags:
   - Jamstack
   - Netlify
-image: images/2.png
+image: images/diagonal-lines.svg
 image_alt: Post 2 placeholder image
 excerpt: >-
   Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
