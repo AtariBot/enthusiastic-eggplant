@@ -21,7 +21,7 @@ sections:
       background_color: gray
       background_image: images/diagonal-lines.svg
       background_image_opacity: 50
-      background_image_size: contain
+      background_image_size: cover
       background_image_repeat: no-repeat
   - type: features_section
     title: APIs
