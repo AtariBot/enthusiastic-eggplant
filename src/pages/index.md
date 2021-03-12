@@ -20,7 +20,7 @@ sections:
     background:
       background_color: gray
       background_image: images/diagonal-lines.svg
-      background_image_opacity: 20
+      background_image_opacity: 0
       background_image_size: cover
       background_image_repeat: no-repeat
   - type: features_section
